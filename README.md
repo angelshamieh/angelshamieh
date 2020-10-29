@@ -6,4 +6,4 @@
 - 📫 How to reach me: 🖇️ https://www.linkedin.com/in/angel-shamieh-70664315b/
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=angelshamieh&layout=compact)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=angelshamieh&repo=repo-name)](https://github.com/angelshamieh/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
