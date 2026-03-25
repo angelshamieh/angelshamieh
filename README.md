@@ -31,7 +31,16 @@ www.taletell.ai
 *Founder & Product Lead*  
 - Developed an AI-powered platform to generate children’s stories in minutes without writing skills  
 - Focused on age-appropriate content (3–7 years), helping kids build confidence & learn new concepts  
-- Designed UX flows and multilingual support (including Arabic), improving accessibility & engagement  
+- Designed UX flows and multilingual support (including Arabic), improving accessibility & engagement
+
+## **Nimbus – AI Agent Workspace**
+https://web.trynimbus.workers.dev
+*Product & AI Specialist* 
+- Built a secure platform for running AI agents in companies, combining frontend UX and backend systems  
+- Designed a workspace where agents operate with full permissions, policies, & audit trails  
+- Developed frontend screens, buttons, & flows, and backend logic with Cloudflare Workers & isolated runtime environments  
+- Focused on safe collaboration, shared knowledge, and controlled integrations with company tools  
+- Learned backend architecture hands-on by connecting real-world UX requirements to system design
 
 ### **Podcasize**   *(Side Project)*  
 *Product & AI Specialist*  
