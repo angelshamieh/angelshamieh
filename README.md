@@ -36,10 +36,10 @@ www.taletell.ai
 ## **Nimbus – AI Agent Workspace**
 https://web.trynimbus.workers.dev
 *Product & AI Specialist* 
-- Built a secure platform for running AI agents in companies, combining frontend UX and backend systems  
+- Built a secure platform for running AI agents in companies, combining frontend UX & backend systems  
 - Designed a workspace where agents operate with full permissions, policies, & audit trails  
 - Developed frontend screens, buttons, & flows, and backend logic with Cloudflare Workers & isolated runtime environments  
-- Focused on safe collaboration, shared knowledge, and controlled integrations with company tools  
+- Focused on safe collaboration, shared knowledge, & controlled integrations with company tools  
 - Learned backend architecture hands-on by connecting real-world UX requirements to system design
 
 ### **Podcasize**   *(Side Project)*  
