@@ -63,7 +63,7 @@ https://web.trynimbus.workers.dev
 
 ## 📫 Connect With Me
 
-- **Email:** angellshamieh5@gmail.com 
+- **Email:** angellshamieh5@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/angel-shamieh-70664315b/
 
 ---
